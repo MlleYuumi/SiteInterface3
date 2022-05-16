@@ -6,4 +6,5 @@ Se résumer en 3 images à l'aide d'HTML.
 
 ### Technologies utilisées
 * HTML
+* CSS 
 
