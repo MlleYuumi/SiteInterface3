@@ -2,7 +2,7 @@
 Ce projet est le premier travail réalisé avec Interface3 Namur
 
 ## Objectif
-Se résumer en 3 images à l'aide d'HTML.
+Créer un site en HTML et CSS.
 
 ### Technologies utilisées
 * HTML
