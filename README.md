@@ -1,4 +1,4 @@
-# Moi en 3 Images
+# Premier site web
 Ce projet est le premier travail réalisé avec Interface3 Namur
 
 ## Objectif
